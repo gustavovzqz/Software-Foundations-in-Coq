@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bceb03d050fc3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Booleanos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Primeiros Passos.md",
+                "file": "2. Booleanos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Primeiros Passos.md",
+                "file": "2. Booleanos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Primeiros Passos.md"
+                "file": "2. Booleanos.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aefc0d9eee97b7e7",
+  "active": "5bceb03d050fc3c1",
   "lastOpenFiles": [
+    "1. Primeiros Passos.md",
+    "2. Booleanos.md",
     "images/Pasted image 20240412223030.png",
     "images/Pasted image 20240412223037.png",
     "images/Pasted image 20240412222911.png",
-    "1. Primeiros Passos.md",
     "images/Pasted image 20240412222814.png",
     "images/Pasted image 20240412222717.png",
     "images"
